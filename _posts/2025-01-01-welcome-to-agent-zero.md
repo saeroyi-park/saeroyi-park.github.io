@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Agent Zero"
-date: 2025-01-01
+date: 2025-12-09
 categories: rl blog introduction
 ---
 
