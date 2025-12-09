@@ -1,0 +1,11 @@
+title: "Agent Zero"
+description: "Reinforcement Learning"
+theme: minima
+
+author:
+  name: "Saeroyi Park"
+
+# Enable blog posts
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
